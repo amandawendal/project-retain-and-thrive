@@ -53,7 +53,7 @@ I prioritized sensitivity over accuracy on purpose: for HR, missing an employee 
 
 ## Tools
 
-R · RStudio · caret · e1071 · randomForest · pROC · car · Power BI · Power Query · DAX
+R · RStudio · caret · e1071 · randomForest · pROC · Power BI · Power Query · DAX
 
 ## About
 
